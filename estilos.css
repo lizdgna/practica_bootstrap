@@ -1,0 +1,28 @@
+:root{
+    --bg-color: #F6D6D6 ;
+    --primary-color: #FF8C9E;
+    --secondary-color: #FFDA76;
+    --hg-color: #FF4E88;
+    
+    background-color: var(--bg-color);
+    color:var(--hg-color);
+    width: 100vw;
+    height: 500vh;
+   
+   }
+
+   div.container-fluid{
+    background-color: var(--secondary-color);
+    font-family: "Sour Gummy", sans-serif;
+   }
+
+   div.carouselExampleCaptions{
+    background-color: var(--hg-color);
+    font-family: "Sour Gummy", sans-serif;
+   }
+
+   h5{
+    font-size: 65px;
+    font-family: "Sour Gummy", sans-serif;
+
+   }
